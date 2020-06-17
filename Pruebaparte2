@@ -7,7 +7,7 @@ void busquedabinaria ( int b, struct list* L){
   while ( x != NULL) {
     if (b==x) {
       posicion = p; 
-      
+      return posicion ; 
   }
 
 
