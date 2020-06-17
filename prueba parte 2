@@ -5,6 +5,9 @@ int mitad;
 
 if (z>d)
   return(False);
+ 
+else {
+    mitad =(z+d)/2;
   
 
 
