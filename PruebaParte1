@@ -3,6 +3,8 @@
 
 void promedio(struct list*L ){
 
+struct list* n =L ; 
+
 
 }
 
