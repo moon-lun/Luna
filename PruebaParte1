@@ -1,13 +1,10 @@
 #include<stdio.h>
 
 
+void promedio(struct list*L ){
 
 
-
-
-
-
-
+}
 
 
 
