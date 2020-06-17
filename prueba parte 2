@@ -8,6 +8,13 @@ if (z>d)
  
 else {
     mitad =(z+d)/2;
+    if(a [mitad]==x)
+      Return(True);
+     else 
+     
+      if( a[mitad]>x)
+      
+    
   
 
 
