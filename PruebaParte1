@@ -5,6 +5,13 @@ void promedio(struct list*L ){
 
   struct list* n =L ; 
   int suma, promedio;  
+  while ( n != NULL) 
+  { 
+    suma=suma+n->dat;
+    n=n->siguiente; 
+  
+  
+  }
 
 
 
