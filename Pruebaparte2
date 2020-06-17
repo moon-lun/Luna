@@ -1,7 +1,8 @@
 
 void busquedabinaria ( int b, struct list* L){
 
-
+struct list* x =L;
+int p=0; posicion;
 
 
 }
