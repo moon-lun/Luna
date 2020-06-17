@@ -10,7 +10,7 @@ void busquedabinaria ( int b, struct list* L){
       return posicion ; 
   }
   p++;
-  b=x->siguiente; 
+  x=x->siguiente; 
 
 }
 return -1;
