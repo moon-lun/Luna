@@ -3,7 +3,9 @@
 
 void promedio(struct list*L ){
 
-struct list* n =L ; 
+  struct list* n =L ; 
+  int suma, promedio;  
+
 
 
 }
