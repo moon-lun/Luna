@@ -14,4 +14,5 @@ void busquedabinaria ( int b, struct list* L){
 
 }
 return -1;
+}
 
