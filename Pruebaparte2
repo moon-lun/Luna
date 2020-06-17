@@ -1,8 +1,15 @@
 
 void busquedabinaria ( int b, struct list* L){
 
-struct list* x =L;
-int p=0; posicion;
+  struct list* x =L;
+  int p=0; posicion;
+  
+  while ( x != NULL) {
+    if (b==x) {
+      posicion = p; 
+      
+  }
+
 
 
 }
