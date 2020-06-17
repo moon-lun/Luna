@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 void promedio(struct list*L ){
 
   struct list* n =L ; 
@@ -10,14 +9,12 @@ void promedio(struct list*L ){
     suma=suma+n->dat;
     n=n->siguiente; 
   
-  
   }
 
-
+  promedio=suma/4;  
+  return promedio; 
 
 }
-
-
 
 int main (int argc, char const * argv []){
 
@@ -31,7 +28,6 @@ mostrar(L);
 media=promedio(L);
 printf("El promedio de la lista es ": %f\n, media);
 return 0; 
-
 
 }
 
